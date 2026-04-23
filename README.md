@@ -24,9 +24,3 @@ This project uses CNN-based deep learning models to classify X-ray images into C
 - TensorFlow / Keras  
 - OpenCV  
 - NumPy  
-
-## 📸 Demo
-
-
-## 🚀 Live Demo
-(Add link if deployed)
